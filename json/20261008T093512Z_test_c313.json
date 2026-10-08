@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "savedAt": "2026-10-08T09:35:12.308Z",
+  "runtime": "local-python",
+  "user": {
+    "name": "Mai Ngọc Hùng Anh",
+    "role": "admin"
+  },
+  "file": "test.py",
+  "args": "",
+  "stdin": "",
+  "code": "print\"Hello world\"",
+  "result": {
+    "stdout": "",
+    "stderr": "  File \"C:\\Users\\Admin\\AppData\\Local\\Temp\\quickrun-jPvDxa\\main.py\", line 1\r\n    print\"Hello world\"\r\n    ^^^^^^^^^^^^^^^^^^\r\nSyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?\r\n",
+    "exitCode": 1,
+    "timedOut": false,
+    "truncated": false,
+    "ms": 125
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "savedAt": "2026-10-08T09:49:59.943Z",
+  "runtime": "vercel-python-function",
+  "user": {
+    "name": "Mai Ngọc Hùng Anh",
+    "role": "admin"
+  },
+  "file": "test.py",
+  "args": "",
+  "stdin": "",
+  "code": "print(\"Hello world\")\n",
+  "result": {
+    "stdout": "Hello world\n",
+    "stderr": "",
+    "exitCode": 0,
+    "timedOut": false,
+    "truncated": false,
+    "ms": 15
+  }
+}

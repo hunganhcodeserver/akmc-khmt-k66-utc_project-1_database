@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "savedAt": "2026-10-08T09:44:21.233Z",
+  "runtime": "local-python",
+  "user": {
+    "name": "Mai Ngọc Hùng Anh",
+    "role": "admin"
+  },
+  "file": "test.py",
+  "args": "",
+  "stdin": "",
+  "code": "print(\"Hello world\")\n",
+  "result": {
+    "stdout": "Hello world\r\n",
+    "stderr": "",
+    "exitCode": 0,
+    "timedOut": false,
+    "truncated": false,
+    "ms": 82
+  }
+}
